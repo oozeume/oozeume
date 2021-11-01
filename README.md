@@ -1,4 +1,9 @@
+## About Me
+- wanna be a good developer.
 - I’m currently learning web Frontend skills.
-- Ask me about anything!
+- love writing, book, Arts
 
-✨ For More Info... **[BLOG](https://jieum.tistory.com/)** | **[RESUME](https://www.notion.so/ko-kr/product?utm_source=naver&utm_campaign=brand&utm_medium=bsa&utm_content=type_b&device=c)**
+## Primary Tech Stacks
+[!React](https://img.shields.io/badge/-React-brightgreen)
+
+✨ For More Info... **[BLOG](https://jieum.tistory.com/)**
