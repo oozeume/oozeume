@@ -4,6 +4,5 @@
 - love writing, book, Arts
 
 ## Primary Tech Stacks
-[!React](https://img.shields.io/badge/-React-brightgreen)
 
 ✨ For More Info... **[BLOG](https://jieum.tistory.com/)**
