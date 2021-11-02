@@ -1,7 +1,5 @@
-## About Me
-- wanna be a good developer.
-- I’m currently learning web Frontend skills.
+## Hi! I'm Woo Jieum 👋🏻
+- I wanna be a Good Developer.
+- I’m currently learning Web Frontend skills.
 
-## Primary Tech Stacks
-
-✨ For More Info... **[BLOG](https://jieum.tistory.com/)**
+For More Info... **✍🏻 [BLOG](https://jieum.tistory.com/)**
